@@ -29,3 +29,5 @@ Trình duyệt tự mở tại http://localhost:8501. Python 3.9 trở lên.
 - Màu và tên cụm lấy từ cột `cluster_name` của `country_clustered.csv`
   (không dùng cột `cluster` vì số thứ tự gốc của K-Means không trùng tên cụm trong báo cáo).
 - Dữ liệu: Unsupervised Learning on Country Data (HELP International).
+
+LINK: https://countryclussteringdemo-lzvxvrbetqdyjv9oimq3w2.streamlit.app/
